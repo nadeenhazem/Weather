@@ -1,0 +1,14 @@
+body {
+  background-color: #121212 !important;
+}
+.header {
+  background-color: #212730;
+  border-radius: 20px;
+  color: #fff;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-top: 3rem;
+}
+.btn-search {
+  background-image: linear-gradient(to right, cyan, magenta);
+}
